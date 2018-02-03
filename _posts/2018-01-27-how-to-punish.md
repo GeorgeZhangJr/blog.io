@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 报复仇人的信息技术方法[仅供学习技术，不建议操作]
-date: 2015-3-02
+date: 2018-01-27
 categories: blog
 tags: [标签一,标签二]
 description: 文章金句。
