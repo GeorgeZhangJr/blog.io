@@ -12,5 +12,5 @@ description: 文章金句。
 这个学期音乐课有一半都是在机房上的，因为忘了带U盘，需要临时下载文件。我试了，以前我在application上需要付费下载的也可以下载。当然最重要的优点是不用download and install一堆垃圾软件把你的电脑搞的死机，内存64GB，cpu再好的电脑也会死机。
 
 100 Things to Do Before High School是个很好的美剧，只出了第一季。为了下载这个theme song，又不想花几十块钱开会员，就可以用这个方法，但还是不能忘了尊重版权。
-![Image text](https://github.com/GeorgeZhangJr/blog/blob/master/p01.png)
-![Image text](https://github.com/GeorgeZhangJr/blog/blob/master/p02.png)
+![Image text](https://raw.githubusercontent.com/GeorgeZhangJr/blog/master/p01.png)
+![Image text](https://raw.githubusercontent.com/GeorgeZhangJr/blog/master/p02.png)
