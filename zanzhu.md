@@ -11,4 +11,4 @@ header-img: "img/green.jpg"
 
 [至2018.3月底]2、支-付-宝红包。
 扫码领红包，我也能得到赏金。
-![Image text](https://github.com/GeorgeZhangJr/blog/blob/master/mmexport1516433766941.png?raw=true)
+![Image text](https://raw.githubusercontent.com/GeorgeZhangJr/blog/master/mmexport1516433766941.png)
