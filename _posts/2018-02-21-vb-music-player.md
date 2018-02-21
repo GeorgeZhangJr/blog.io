@@ -20,8 +20,8 @@ End Sub</br>
 Private Sub Form_Load()</br>
 List1.Clear</br>
 Dim fso, folder, subfolder, file As Object</br></br>
-Set fso = CreateObject("scripting.filesystemobject")</br>   </br>                   
-Set folder = fso.getfolder("C:\Users\George\Music\")</br></br>
+Set fso = CreateObject("scripting.filesystemobject")</br>               
+Set folder = fso.getfolder("C:\Users\George\Music\")</br>
 For Each file In folder.Files </br> 
    List1.AddItem file    </br>
 Next</br>
