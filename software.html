@@ -1,0 +1,18 @@
+<script type="text/javascript">
+function RequestGet(){
+var id=location.search.substring(1);
+var tmp=id.split("&");
+var tmp_l=tmp.length;
+var output='';
+for(var i=0;i<tmp_l;i++){
+ var tmp2=tmp[i];
+ tmp2=tmp2.split("=");
+ output +=tmp2[0]+":"+tmp2[1]+"<br />";
+}
+ return output;
+}
+window.onload=function(){
+ document.getElementById("output").innerHTML=RequestGet();
+}
+</script>
+<span id="output"></span>
